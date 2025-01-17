@@ -1,5 +1,4 @@
 # Function_calling-Tool_calling_in_LLM
-# Function Calling and Tool Calling in LLM
 
 ## Table of Contents
 - [Introduction](#introduction)
